@@ -75,6 +75,7 @@ benchmarks:
       - parsec
       - primitive
       - integer-gmp
+      - Z-Data
     ghc-options:
       - -O2
       # - -fllvm
